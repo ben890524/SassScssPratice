@@ -61,7 +61,7 @@ const routeToSass = () => {
     cursor: pointer;
     z-index: 5;
     width: 200px;
-    height: 50px;
+    height: 45px;
     background-color: #c1c1c1;
     border-radius: 4px;
     transition: .25s ease-in-out;
